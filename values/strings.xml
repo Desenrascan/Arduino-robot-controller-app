@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RobotController</string>
+    <string name="dialog">Rotate</string>
+    <string name="dialogTitle">Rotate</string>
+    <string name="dialogText">Rotate screen for better user experience</string>
+    <string name="dialogPositiveButton">Ok</string>
+    <string name="bluetooth_search_list">Searching...</string>
+
+    <!-- App Bar Icons -->
+    <string name="bluetooth">Bluetooth</string>
+    <string name="microphone">Microphone</string>
+
+    <!-- App Bar Overflow Titles -->
+    <string name="mode">Mode</string>
+    <string name="lightMode">Light Mode</string>
+    <string name="nightMode">Night Mode</string>
+    <string name="bugReport">Report</string>
+    <string name="suggestions">Suggestions</string>
+
+    <!-- Control Directions -->
+    <string name="left">Left</string>
+    <string name="forward">Forward</string>
+    <string name="right">Right</string>
+    <string name="backward">Backward</string>
+</resources>
